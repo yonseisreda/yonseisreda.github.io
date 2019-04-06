@@ -4,3 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 # Google Analytics
 google_analytics: UA-137806717-1
 remote_theme: old-jekyll-templates/Strata-Jekyll-Theme
+theme: Strata
