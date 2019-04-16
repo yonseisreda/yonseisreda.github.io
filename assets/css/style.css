@@ -180,7 +180,7 @@ blockquote {
 BUTTON DEFAULTS
 ***************/
 .button,.button-secondary,.button-tertiary,.button__outline {
-    background-color: #2e8b57;
+    background-color: #2e5f8b;
     display: inline-block;
     position: relative;
     font-family: Open Sans,Helvetica,Arial,sans-serif;
