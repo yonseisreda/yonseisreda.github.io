@@ -175,13 +175,17 @@ blockquote {
     overflow: hidden}
 .clearfix:after {
     clear: both}
+
+/***************
+BUTTON DEFAULTS
+***************/
 .button,.button-secondary,.button-tertiary,.button__outline {
     background-color: #2e8b57;
     display: inline-block;
     position: relative;
     font-family: Open Sans,Helvetica,Arial,sans-serif;
     text-decoration: none;
-    color: #fff;
+    color: black;
     font-size: 1em;
     line-height: 1.2em;
     font-weight: 400;
@@ -212,6 +216,10 @@ blockquote {
 .button__outline:hover {
     background-color: #2e8b57;
     color: #fff}
+
+/***************
+FORM STYLING
+***************/
 label {
     display: block;
     margin-bottom: 5px}
@@ -243,6 +251,10 @@ form .error .reason {
     color: #ff4136}
 form .error input[type=email],form .error input[type=number],form .error input[type=password],form .error input[type=phone],form .error input[type=search],form .error input[type=text],form .error textarea {
     border-color: #ff4136}
+
+/***************
+TABLE STYLES
+***************/
 table {
     width: 100%;
     border: 1px solid #d0d0d0;
@@ -268,6 +280,12 @@ th {
     border-right: 1px solid #d0d0d0}
 th: last-child {
     border-right: 0}
+
+/***************
+  Darkly Pygments Theme
+  (c) 2014 Sourcey
+  http://sourcey.com
+***************/
 .highlight {
     white-space: pre;
     overflow: auto;
@@ -334,10 +352,18 @@ audio,iframe,img,object,video {
     padding: 0 20px;
     margin-left: auto;
     margin-right: auto}
+
+/***************
+LINK STYLING
+***************/
 a {
     color: #2e8b57}
 a:hover {
     color: #1b5233}
+
+/***************
+MENU STYLING
+***************/
 .nav-collapse {
     z-index: 1}
 .nav-collapse ul {
@@ -389,6 +415,10 @@ a:hover {
 .nav-toggle:hover {
     color: #fff;
     background-color: #21653f}
+
+/***************
+LIST STYLING
+***************/
 .noList {
     list-style: none;
     padding-left: 0;
