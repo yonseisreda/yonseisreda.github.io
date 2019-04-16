@@ -1,24 +1,22 @@
 ---
 layout: default
-title: About Long Haul
+title: About "Sreda" project
 ---
 
 <div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
 	<img src="{{ '/assets/img/yonsei.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">"Sreda" is project for promoting environment-friendly attitude and action in South Korea. </p>
+	<p>"Sreda" was created to help for newcoming foreigners in Korea to deal with everyday problems like recycling.</p>
+	<h2>Our goals</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+		<li>Provision of materials on recycling in Seoul.</li>
+  		<li>Promotion of environment-friendly attitude and action.>Customizr</a></li>
+  		<li>Help to newcoming foreigners and those who are struggle with recycling while living in Seoul.</a></li>
+  		<li>Provide consulting service on recycling in everyday life and information about ecology protection.</a></li>
+  		<li>Help to adapt to foreigners in their everyday life in Korea</li>
+      <li>Rise tourists awareness about South Korea's recycling rules</li>
+  		
+	<p>We hope to be helpful for both Foreigners, Koreans and ecology around us.</p>	
   	</ul>
 </div>
