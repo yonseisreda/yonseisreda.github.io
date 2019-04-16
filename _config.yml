@@ -10,8 +10,8 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:				         Yonsei Sreda
+title:               Yonsei Sreda
 tagline:             'tagline'
 description:         'description'
 url:                 site url
