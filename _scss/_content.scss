@@ -2,64 +2,6 @@
 // Content
 // --------------------------------------------------
 
-// Metabar
-//
-// Header with logo, navigation and sidebar-toggle
-
-/* .metabar {
-  display: block;
-  z-index: $zIndex-5--metabar;
-  width: 100%;
-  font-size: 14px;
-  color: rgba(0,0,0,0.3);
-  letter-spacing: -0.02em;
-  font-weight: 400;
-  font-style: normal;
-  box-sizing: border-box;
-  pointer-events: none;
-}
-
-.metabar--top {
-  position: absolute;
-  top: 0;
-  height: 2 * $leading;
-
-  .metabar--bordered{
-    border-bottom: 1px solid rgba(0,0,0,0.05);
-  }
-}
-
-.metabar--white {
-  background: $metabar-top-bg;
-}
-
-.meta--darkBackground {
-  color: #fff;
-
-  a,
-  a:hover,
-  a:visited {
-    color: #fff;
-  }
-}
-
-.metabar-block {
-  pointer-events: auto;
-}
-
-.metabar-block:not(.metabar-center) {
-  position: relative;
-  z-index: $zIndex-5--metabar;
-}
-
-.metabar-center {
-  position: absolute;
-  left: 0;
-  right: 0;
-  text-align: center;
-  height: 100%;
-} */
-
 // Post
 .postWrapper {
   position: relative;
@@ -84,7 +26,7 @@
 .section--postsWrapper {
   width: 100%;
   background: $frontpage-body-bg;
-  padding-top: 3*$leading;
+  padding-top: 0;
   position: relative;
   clear: both;
   z-index: $zIndex-4--posts-wrapper;
@@ -100,6 +42,7 @@
 .blockGroup-list {
   list-style: none;
   padding: 0;
+  margin-top: -3*$leading;
   margin-left: -10px;
   margin-right: -10px;
   display: -webkit-box;

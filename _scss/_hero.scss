@@ -20,10 +20,10 @@
 
 .section--frontpage,
 .section--frontpage ~ .post-featuredImage {
-  height: 7 * $leading;
+  height: 12 * $leading;
 
   @media (max-width: $screen-xs-max) {
-    height: 5 * $leading;
+    height: 10 * $leading;
   }
 }
 
@@ -154,7 +154,7 @@
 .postMeta-wrapper--frontpage {
   position: absolute;
   display: inherit;
-  top: 230px;
+  top: 165px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--tagline-frontpage;
@@ -172,7 +172,7 @@
 
   @media (max-width: $screen-xs-max) {
     width: 300px;
-    top: 160px;
+    top: 100px;
   }
 }
 
