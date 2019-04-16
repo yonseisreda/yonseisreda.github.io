@@ -789,7 +789,7 @@ dd {
 PAGE STYLES
 ***************/
 .pageTitle {
-  margin: 2rem auto 1em;
+  margin: 1.3rem auto 1em;
   text-align: center; }
 
 .content {
@@ -828,7 +828,7 @@ POST STYLING
 ***************/
 .post .postTitle {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 1.3rem;
   margin-bottom: 1rem; }
 
 .post blockquote {
