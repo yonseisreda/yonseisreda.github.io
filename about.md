@@ -4,7 +4,7 @@ title: About "Sreda" project
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About "Sreda" project</h1>
+	<h1 class="pageTitle">About 'Sreda' project</h1>
 	<img src="{{ '/assets/img/yonsei.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">"Sreda" is project for promoting environment-friendly attitude and action in South Korea. </p>
 	<p>"Sreda" was created to help for newcoming foreigners in Korea to deal with everyday problems like recycling.</p>
