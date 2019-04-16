@@ -1,7 +1,7 @@
-title: Long Haul
+title: Yonsei Sreda
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://yonseisreda.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -9,7 +9,7 @@ permalink: blog/:title/
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 3
 
 navigation:
   - title: Home
@@ -20,9 +20,7 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: yonseisreda
+  email: catherine666@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-137806717-1"
