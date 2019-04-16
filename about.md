@@ -11,12 +11,11 @@ title: About "Sreda" project
 	<h2>Our goals</h2>
 	<ul>
 		<li>Provision of materials on recycling in Seoul.</li>
-  		<li>Promotion of environment-friendly attitude and action.>Customizr</a></li>
-  		<li>Help to newcoming foreigners and those who are struggle with recycling while living in Seoul.</a></li>
-  		<li>Provide consulting service on recycling in everyday life and information about ecology protection.</a></li>
+  		<li>Promotion of environment-friendly attitude and action.</li>
+  		<li>Help to newcoming foreigners and those who are struggle with recycling while living in Seoul.</li>
+  		<li>Provide consulting service on recycling in everyday life and information about ecology protection.</li>
   		<li>Help to adapt to foreigners in their everyday life in Korea</li>
-      <li>Rise tourists awareness about South Korea's recycling rules</li>
-  		
-	<p>We hope to be helpful for both Foreigners, Koreans and ecology around us.</p>	
+      <li>Rise tourists awareness about South Korea's recycling rules</li>	
   	</ul>
+	<p>We hope to be helpful for both Foreigners, Koreans and ecology around us.</p>
 </div>
