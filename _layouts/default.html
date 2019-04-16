@@ -1,26 +1,23 @@
-<!DOCTYPE html>
-<html lang="en-us" class="no-js">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-  {% include head.html %}
+	{% include _masthead.html %}
+	{{ content }}
 
-  <body>
-    {% if page.url != '/index.html' %}
-      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-      {% include sidebar-nav.html %}
-      {% include menu.html %}
-    {% endif %}
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-    {{ content }}
-
-    {% if page.url != '/index.html' %}
-      {% include sidebar-toggle.html %}
-    {% endif %}
-
-    {% if page.url == '/index.html' %}
-      {% include subscribe.html %}
-      {% include footer.html %}
-    {% endif %}
-
-    {% include footer-scripts.html %}
-  </body>
+	{% include _footer_scripts.html %}
+</body>
 </html>
