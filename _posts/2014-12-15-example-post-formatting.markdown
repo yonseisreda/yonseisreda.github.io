@@ -1,56 +1,29 @@
 ---
 layout: post
-title:  "Example Post Formatting"
-date:   2014-12-15
+title:  "서대문구 연희동 일반/음식물 쓰레기 배출일"
+date:   2019-04-17
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">C</span>서대문구에서 배출되는 1일 생활쓰레기 양은 100톤입니다. 재활용품과 음식물 쓰레기 제대로 분리 배출되지 않아 생활쓰레기 양이 급격하게 증가하고 있습니다.</p>
 
-# Heading 1
+<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
 
-## Heading 2
+## 연희동 쓰레기배출 안내
+1. 음식물쓰레기
+    1.배출시간 : 18:00~22:00
+    2.배출요일 : 화, 목, 일
+2.생활쓰레기
+    1. 배출시간 : 18:00~22:00
+    2. 배출요일 : 화, 목, 일
+3. 재활용쓰레기
+    1.배출시간 : 일몰후~22:00 
+    2.배출요일 : 화, 목, 일
 
-### Heading 3
 
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
-
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
-
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
-
-## Definition List
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl>
-
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+| 종류       | 세부품목           | 배출방법  |
+| ------------- |:-------------:| -----:|
+| 종이류     |종이컵, 종이백 | 물로 헹군 후 압착|
+| 종이류     |상자류, 책자, 인쇄용지 | 비닐코팅, 테이프, 스프링 제거|
+| 종이류     |신문지 | 물기에 젖지 않도록 반듯하게 핀 후 묶어서 배출|
+| 유리병류    | 음료수병, 기타병류      | 병뚜껑을 제거 후 내용물을 비우고 배출|
