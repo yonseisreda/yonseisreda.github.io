@@ -10,13 +10,15 @@ description: This is a post description for meta purposes. This is also the exce
 <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
 
 ## 연희동 쓰레기배출 안내
-1. 음식물쓰레기
+#1. 음식물쓰레기
     * 배출시간 : 18:00~22:00
     * 배출요일 : 화, 목, 일
-2.생활쓰레기
+
+#2.생활쓰레기
     * 배출시간 : 18:00~22:00
     * 배출요일 : 화, 목, 일
-3. 재활용쓰레기
+
+#3. 재활용쓰레기
     * 배출시간 : 일몰후~22:00 
     * 배출요일 : 화, 목, 일
 
