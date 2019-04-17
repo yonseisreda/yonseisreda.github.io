@@ -14,7 +14,7 @@ description: This is a post description for meta purposes. This is also the exce
     * 배출시간 : 18:00~22:00
     * 배출요일 : 화, 목, 일
 
-2.생활쓰레기
+2. 생활쓰레기
     * 배출시간 : 18:00~22:00
     * 배출요일 : 화, 목, 일
 
