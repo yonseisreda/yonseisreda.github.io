@@ -9,7 +9,7 @@ description: This is a post description for meta purposes. This is also the exce
 
 <img src="{{ '/assets/img/soedaemungu.jpg' | prepend: site.baseurl }}" alt=""> 
 
-## 연희동 쓰레기배출 안내
+### 연희동 쓰레기배출 안내
 1. 음식물쓰레기
     * 배출시간 : 18:00~22:00
     * 배출요일 : 화, 목, 일
