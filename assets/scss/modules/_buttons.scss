@@ -9,12 +9,12 @@ BUTTON DEFAULTS
   font-family: $sans-serif;
   text-decoration: none;
   color: $white;
-  font-size: 1em;
-  line-height: 1.2em;
+  font-size: 10px;
+  line-height: .5em;
   font-weight: normal;
   padding: .5em 1.5em;
   border: 0;
-  border-radius: 4px; 
+  border-radius: 1px; 
   cursor: pointer;
   margin-bottom: .5em;
   transition: background-color 0.14s ease-in-out;

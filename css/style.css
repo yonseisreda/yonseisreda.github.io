@@ -34,7 +34,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
+  font-size: 1.2em;
   margin: 0.67em 0; }
 
 /* Grouping content
@@ -495,12 +495,12 @@ BUTTON DEFAULTS
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-decoration: none;
   color: #fff;
-  font-size: 1em;
+  font-size: 10px;
   line-height: 1.2em;
   font-weight: normal;
   padding: .5em 1.5em;
   border: 0;
-  border-radius: 4px;
+  border-radius: 2px;
   cursor: pointer;
   margin-bottom: .5em;
   transition: background-color 0.14s ease-in-out; }
@@ -789,7 +789,7 @@ dd {
 PAGE STYLES
 ***************/
 .pageTitle {
-  margin: 2rem auto 1em;
+  margin: 1.3rem auto 1em;
   text-align: center; }
 
 .content {
@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: seagreen;
-  background-image: url("../img/yonsei.jpg");
+  background-image: url("../img/touring.JPG");
   background-size: cover;
   background-position: center center;
   color: white;
@@ -820,15 +820,16 @@ HEADER STYLING
     font-weight: 800;
     text-transform: uppercase; }
     .header h1 a {
-      color: white;
+      color: black;
       text-decoration: none; }
 
 /***************
 POST STYLING
+
 ***************/
 .post .postTitle {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 1.3rem;
   margin-bottom: 1rem; }
 
 .post blockquote {

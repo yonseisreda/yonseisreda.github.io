@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Yonsei
+title: Sreda
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">New Posts</h1>
+  <h2 class="pageTitle">Welcome!</h2>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
+        <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p> 
       </li>
     {% endfor %}
   </ul>
