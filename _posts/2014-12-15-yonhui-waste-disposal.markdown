@@ -2,7 +2,7 @@
 layout: post
 title:  "서대문구 연희동 일반/음식물 쓰레기 배출일"
 date:   2019-04-17
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+description: 서대문구에서 배출되는 1일 생활쓰레기 양은 100톤입니다. 재활용품과 음식물 쓰레기 제대로 분리 배출되지 않아 생활쓰레기 양이 급격하게 증가하고 있습니다.
 ---
 
 <p class="intro"><span class="dropcap"></span>서대문구에서 배출되는 1일 생활쓰레기 양은 100톤입니다. 재활용품과 음식물 쓰레기 제대로 분리 배출되지 않아 생활쓰레기 양이 급격하게 증가하고 있습니다.</p>
