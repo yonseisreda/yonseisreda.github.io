@@ -384,19 +384,19 @@ BUTTON DEFAULTS
 .button-secondary:active,.button-tertiary:active,.button:active,.button__outline:active {
     top: 1px}
 .button-secondary {
-    background-color: #2e5f8b}
+    background-color: #2e8b57}
 .button-secondary:hover {
-    background-color:#2e5f8b}
+    background-color#fff}
 .button-tertiary {
-    background-color:#2e5f8b}
+    background-color:#2e8b57}
 .button-tertiary:hover {
-    background-color: #2e5f8b}
+    background-color: #fff}
 .button__outline {
     background-color: transparent;
-    border: 3px solid #2e5f8b;
+    border: 3px solid #2e8b57;
     color: #2e8b57}
 .button__outline:hover {
-    background-color: #2e5f8b;
+    background-color:#2e8b57;
     color: #fff}
 
 /***************
