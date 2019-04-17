@@ -10,7 +10,7 @@ title: Sreda
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        
+        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p> 
       </li>
     {% endfor %}
   </ul>
